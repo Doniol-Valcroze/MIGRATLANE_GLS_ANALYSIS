@@ -1,0 +1,143 @@
+ring_number,tag_id,observation_type,datetime,latitude,longitude,location_name,device_status,observer,catching_method,age_class,sex,condition,mass,wing_length,additional_metric,observation_comments
+TX22147,CL930,equipment,2023-04-25T00:00:00Z,51.6983,-5.2768,TO DO,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+TX22147,CL930,retrieval,2025-04-25T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+ACY7939,CL932,equipment,2023-04-25T00:00:00Z,51.6983,-5.2768,TO DO,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ACY7939,CL932,retrieval,2025-04-25T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+TX22160,CL935,equipment,2023-04-25T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+TX22160,CL935,retrieval,2024-05-08T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+ACY7904,CL940,equipment,2023-04-18T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ACY7904,CL940,retrieval,2024-04-28T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+ARR7460,CL941,equipment,2023-04-19T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ARR7460,CL941,retrieval,2024-05-09T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+ARR7950,CL942,equipment,2023-04-22T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ARR7950,CL942,retrieval,2024-05-04T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+ARR7361,CL946,equipment,2023-04-21T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ARR7361,CL946,retrieval,2024-04-20T00:00:00Z,51.6983,-5.2768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+AER3033,CM112,equipment,2023-05-10T00:00:00Z,51.9845,1.116,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+AER3033,CM112,retrieval,2024-01-26T00:00:00Z,51.9845,1.116,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+NF47857,CM117,equipment,2023-05-31T00:00:00Z,51.9796,1.1294,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+NF47857,CM117,retrieval,2023-12-23T00:00:00Z,51.9796,1.1294,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+Z230535,CM118,equipment,2023-05-15T00:00:00Z,52.5221,0.4861,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+Z230535,CM118,retrieval,2023-12-12T00:00:00Z,52.5221,0.4861,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+ALN8570,CM119,equipment,2023-05-13T00:00:00Z,51.8224,0.8724,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+ALN8570,CM119,retrieval,2024-04-21T00:00:00Z,51.8224,0.8724,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+8118303,CM404,equipment,2023-08-12T00:00:00Z,63.89,-21.17,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+8118303,CM404,retrieval,2024-05-31T00:00:00Z,63.89,-21.17,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+8118308,CM414,equipment,2023-08-12T00:00:00Z,63.89,-21.17,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+8118308,CM414,retrieval,2024-05-31T00:00:00Z,63.89,-21.17,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263818,CM518,equipment,2023-07-05T00:00:00Z,46.8658,-2.0695,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263818,CM518,retrieval,2024-04-29T00:00:00Z,46.8658,-2.0695,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9716923,CM520,equipment,2023-06-11T00:00:00Z,47.8977,-4.3622,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9716923,CM520,retrieval,2024-04-27T00:00:00Z,47.8977,-4.3622,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263816,CM527,equipment,2023-07-05T00:00:00Z,46.8658,-2.0695,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263816,CM527,retrieval,2024-06-05T00:00:00Z,46.8658,-2.0695,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033210,CM528,equipment,2023-06-08T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033210,CM528,retrieval,2024-05-25T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033211,CM530,equipment,2023-06-08T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033211,CM530,retrieval,2024-05-25T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033206,CM534,equipment,2023-06-07T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033206,CM534,retrieval,2024-05-02T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033204,CM537,equipment,2023-06-07T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033204,CM537,retrieval,2024-05-02T00:00:00Z,48.4567,-5.0997,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+BFA1175,CM546,equipment,2023-07-11T00:00:00Z,54.3225,-2.5132,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+BFA1175,CM546,retrieval,2024-08-02T00:00:00Z,54.3225,-2.5132,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+BFA1149,CM549,equipment,2023-07-03T00:00:00Z,54.325,-2.4822,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+BFA1149,CM549,retrieval,2024-06-29T00:00:00Z,54.325,-2.4822,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+BFA1184,CM557,equipment,2023-07-13T00:00:00Z,54.348,-2.5682,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+BFA1184,CM557,retrieval,2024-05-28T00:00:00Z,54.348,-2.5682,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+BFA1103,CM562,equipment,2023-06-22T00:00:00Z,54.3482,-2.5678,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+BFA1103,CM562,retrieval,2024-07-01T00:00:00Z,54.3482,-2.5678,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263727,CM573,equipment,2023-06-11T00:00:00Z,47.9,-4.3574,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263727,CM573,retrieval,2024-04-27T00:00:00Z,47.9,-4.3574,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9859073,CM576,equipment,2023-06-05T00:00:00Z,47.8959,-4.3603,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9859073,CM576,retrieval,2024-06-08T00:00:00Z,47.8959,-4.3603,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9859270,CM591,equipment,2023-06-05T00:00:00Z,47.8959,-4.3603,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9859270,CM591,retrieval,2024-06-08T00:00:00Z,47.8959,-4.3603,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263706,CM606,equipment,2023-06-01T00:00:00Z,47.9091,-4.3704,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263706,CM606,retrieval,2024-05-09T00:00:00Z,47.9091,-4.3704,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263707,CM610,equipment,2023-06-01T00:00:00Z,47.9091,-4.3704,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263707,CM610,retrieval,2024-05-09T00:00:00Z,47.9091,-4.3704,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+AFX2708 ,CM711,equipment,2023-05-14T00:00:00Z,51.7877,-2.5207,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+AFX2708 ,CM711,retrieval,2024-05-30T00:00:00Z,51.7877,-2.5207,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+RJ58897,CM717,equipment,2023-07-07T00:00:00Z,52.4288,0.7135,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+RJ58897,CM717,retrieval,2024-02-27T00:00:00Z,52.4288,0.7135,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AFX2709,CM736,equipment,2023-05-14T00:00:00Z,51.7877,-2.5207,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+AFX2709,CM736,retrieval,2024-06-04T00:00:00Z,51.7877,-2.5207,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263888,CS719,equipment,2024-06-20T00:00:00Z,47.578605,-2.104854,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263888,CS719,retrieval,2025-06-04T00:00:00Z,47.578605,-2.104854,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V042907,CS731,equipment,2024-06-12T00:00:00Z,46.1997,-1.4148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V042907,CS731,retrieval,2025-04-21T00:00:00Z,46.1997,-1.4148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263895,CS737,equipment,2024-06-22T00:00:00Z,46.1447,-1.3041,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263895,CS737,retrieval,2025-04-25T00:00:00Z,46.1447,-1.3041,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467816,CS749,equipment,2024-06-22T00:00:00Z,46.1997,-1.4148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467816,CS749,retrieval,2025-04-25T00:00:00Z,46.1997,-1.4148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263840,CS759,equipment,2024-05-23T00:00:00Z,46.20157,-1.41871,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263840,CS759,retrieval,2025-04-11T00:00:00Z,46.20157,-1.41871,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V042908,CS766,equipment,2024-06-12T00:00:00Z,46.1779,-1.2937,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V042908,CS766,retrieval,2025-04-28T00:00:00Z,46.1779,-1.2937,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263859,CS803,equipment,2024-06-05T00:00:00Z,46.865801,-2.069568,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263859,CS803,retrieval,2025-06-04T00:00:00Z,46.865801,-2.069568,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263884,CS804,equipment,2024-06-18T00:00:00Z,47.58457,-2.19601,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263884,CS804,retrieval,2025-06-04T00:00:00Z,47.58457,-2.19601,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9263833,CS807,equipment,2024-05-18T00:00:00Z,47.578605,-2.104854,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9263833,CS807,retrieval,2025-06-04T00:00:00Z,47.578605,-2.104854,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467924,CT321,equipment,2024-06-18T00:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467924,CT321,retrieval,2025-04-11T00:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467902,CT331,equipment,2024-06-08T00:00:00Z,47.897675,-4.361829,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467902,CT331,retrieval,2025-06-04T00:00:00Z,47.897675,-4.361829,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467913,CT337,equipment,2024-06-11T00:00:00Z,48.24381,-4.54148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467913,CT337,retrieval,2025-05-20T00:00:00Z,48.24381,-4.54148,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033235,CT339,equipment,2024-05-27T00:00:00Z,48.481902,-5.073916,TO DO,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033235,CT339,retrieval,2025-06-17T00:00:00Z,48.481902,-5.073916,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033225,CT350,equipment,2024-06-01T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033225,CT350,retrieval,2025-05-06T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033226,CT370,equipment,2024-06-01T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033226,CT370,retrieval,2025-05-06T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033220,CT372,equipment,2024-05-24T00:00:00Z,48.4493,-5.1343,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033220,CT372,retrieval,2025-05-13T00:00:00Z,48.4493,-5.1343,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+V033216,CT379,equipment,2024-05-25T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+V033216,CT379,retrieval,2025-06-20T00:00:00Z,48.3754,-4.8971,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+AER3048,CM101,equipment,2023-05-17T10:00:00Z,51.97989,1.12768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AER3048,CM101,retrieval,2024-05-24T10:00:00Z,51.97989,1.12768,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+Z230521,CM103,equipment,2023-04-30T10:00:00Z,52.5223156,0.477305,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+Z230521,CM103,retrieval,2024-05-06T10:00:00Z,52.5223156,0.477305,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+ALN8553,CM104,equipment,2023-05-04T10:00:00Z,51.0967,0.8064,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+ALN8553,CM104,retrieval,2024-04-30T10:00:00Z,51.0967,0.8064,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68210,CM565,equipment,2023-07-15T00:00:00Z,54.3225,-2.5132,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+AX68210,CM565,retrieval,2024-07-14T00:00:00Z,54.3225,-2.5132,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+AX68205,CM575,equipment,2023-07-07T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68205,CM575,retrieval,2024-07-02T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81952,CM599,equipment,2023-07-07T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81952,CM599,retrieval,2024-07-14T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68206,CM600,equipment,2023-07-07T10:00:00Z,48.157397,-4.233141,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68206,CM600,retrieval,2024-07-17T10:00:00Z,48.157397,-4.233141,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68222,CS720,equipment,2024-07-02T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX68222,CS720,retrieval,2025-07-13T10:00:00Z,48.157566,-4.233113,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81955,CS725,equipment,2024-07-14T10:00:00Z,48.148303,-4.268356,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81955,CS725,retrieval,2025-07-08T10:00:00Z,48.148303,-4.268356,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9263772,CS747,equipment,2024-06-05T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9263772,CS747,retrieval,2025-05-27T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9216410,CS750,equipment,2024-06-05T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9216410,CS750,retrieval,2025-05-28T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467990,CS796,equipment,2024-06-05T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467990,CS796,retrieval,2025-05-28T10:00:00Z,47.848195,-3.563223,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81958,CT312,equipment,2024-07-14T10:00:00Z,48.148303,-4.268356,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+AX81958,CT312,retrieval,2025-07-08T10:00:00Z,48.148303,-4.268356,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467916,CT315,equipment,2024-06-11T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467916,CT315,retrieval,2025-04-22T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467919,CT318,equipment,2024-06-11T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467919,CT318,retrieval,2025-05-06T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9263799,CT323,equipment,2024-06-07T10:00:00Z,48.163798,-4.293163,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9263799,CT323,retrieval,2025-05-16T10:00:00Z,48.163798,-4.293163,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467917,CT325,equipment,2024-06-11T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467917,CT325,retrieval,2025-05-21T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467918,CT329,equipment,2024-06-11T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467918,CT329,retrieval,2025-05-12T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467977,CT332,equipment,2024-06-25T10:00:00Z,48.184426,-4.293792,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467977,CT332,retrieval,2025-05-07T10:00:00Z,48.184426,-4.293792,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467931,CT346,equipment,2024-06-20T00:00:00Z,47.8865,-4.3573,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467931,CT346,retrieval,2025-05-09T00:00:00Z,47.8865,-4.3573,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467983,CT347,equipment,2024-06-25T00:00:00Z,47.8865,-4.3573,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==1` with `params_to_observations()`
+9467983,CT347,retrieval,2025-06-09T00:00:00Z,47.8865,-4.3573,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed from `known$stap_id==-1` with `params_to_observations()`
+9467922,CT360,equipment,2024-06-17T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`
+9467922,CT360,retrieval,2025-05-20T10:00:00Z,48.233886,-4.567269,NA,NA,NA,NA,0,U,NA,NA,NA,NA,Automatically computed with `params_to_observations()`

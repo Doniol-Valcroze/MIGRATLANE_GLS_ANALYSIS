@@ -1,0 +1,48 @@
+Migrate Technology Ltd logger
+Type: 15.49152.8, current settings: 0.125'C resolution, +/-0.5'C accuracy. Barometer and accelerometer on. Light range 5, clipped OFF, max light regime, floor 0.08lux, quasilog z-axis, P compression on.
+Logger number: CM104
+
+MODE: 16 (light,pressure,temperature,acceleration recorded)
+LIGHT: Sampled every minute with max light recorded every 5mins.
+PRESSURE,TEMPERATURE,ACCELERATION: Sampled and recorded every 20mins.
+Continuous recording. 
+Max record length approx = 17 months. Total battery life approx 17 months. Logger is currently 18 months old.
+
+Programmed: 20/04/2023 14:20:10. Start of logging (DD/MM/YYYY HH:MM:SS): 15/05/2023 14:20:10
+Age at start of logging (secs): 5071212, approx 2 months
+End of logging (DD/MM/YYYY HH:MM:SS): 01/04/2023 13:23:14
+Age at end of logging (secs): 1266234, approx 0 months
+Timer (DDDDD:HH:MM:SS): 00014:15:19:04
+Drift (secs): -4294967334. Memory not full. 
+Pointers: 3089,100836,1053,1907997,0,0,0,3% light mem used,3% wet/dry/temp mem used
+System: 0E,4E,DD,14,08,9F,25,D2,F4,54,05,BA,D7,B1,00,7F,FA,43,B2
+0.125'C resolution, +/-0.5'C accuracy. Barometer and accelerometer on. Light range 5, clipped OFF, max light regime, floor 0.08lux, quasilog z-axis, P compression on.
+DD/MM/YYYY HH:MM:SS	T('C)	P(Pa)	Xavrg	Zact
+15/05/2023 14:40:10	36.987	101675.405	-40	6
+15/05/2023 15:00:10	36.324	101680.719	-19	160
+15/05/2023 15:20:10	35.756	101653.693	-22	248
+15/05/2023 15:40:10	36.277	101703.584	-39	3
+15/05/2023 16:00:10	36.561	101720.444	-20	192
+15/05/2023 16:20:10	34.809	101745.933	-40	12
+15/05/2023 16:40:10	36.798	101753.466	10	424
+15/05/2023 17:00:10	36.893	101774.706	-37	408
+15/05/2023 17:20:10	36.656	101768.470	-28	15
+15/05/2023 17:40:10	36.324	101807.931	-13	528
+15/05/2023 18:00:10	35.708	101793.724	-33	6
+15/05/2023 18:20:10	34.998	101835.232	-20	320
+15/05/2023 18:40:10	35.330	101852.658	1	360
+15/05/2023 19:00:10	31.162	101868.609	-29	15
+15/05/2023 19:20:10	33.719	101863.086	-22	48
+15/05/2023 19:40:10	34.003	101910.012	-28	304
+15/05/2023 20:00:10	34.051	101930.642	-13	3
+15/05/2023 20:20:10	33.293	101931.405	-32	44
+15/05/2023 20:40:10	32.867	101939.559	-31	0
+15/05/2023 21:00:10	32.346	101953.233	-34	19
+15/05/2023 21:20:10	32.393	101963.832	-32	0
+15/05/2023 21:40:10	32.393	101977.190	-31	3
+15/05/2023 22:00:10	31.777	101986.357	-31	17
+15/05/2023 22:20:10	30.167	101485.091	-95	0
+15/05/2023 22:40:10	32.062	101929.718	-63	3
+15/05/2023 23:00:10	31.683	101985.199	-32	0
+15/05/2023 23:20:10	31.825	101933.504	97	0
+15/05/2023 23:40:10	31.635	102011.328	-30	3

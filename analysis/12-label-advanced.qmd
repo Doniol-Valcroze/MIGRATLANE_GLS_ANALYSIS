@@ -11,7 +11,7 @@ library(GeoPressureR)
 library(ggplot2)
 library(plotly)
 
-id <- "18LX"
+id <- "CS759"
 ```
 
 ## Sensor data and crop date

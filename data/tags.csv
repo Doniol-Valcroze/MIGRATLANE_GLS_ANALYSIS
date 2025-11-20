@@ -1,0 +1,72 @@
+tag_id,ring_number,scientific_name,manufacturer,model,firmware,weight,attachment_type,readout_method,tag_comments
+CL930,TX22147,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,retrieved year N +2
+CL932,ACY7939,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,retrieved year N +2
+CL935,TX22160,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CL940,ACY7904,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CL941,ARR7460,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CL942,ARR7950,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CL946,ARR7361,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM112,AER3033,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,Data for only half a year
+CM117,NF47857,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,Data for only half a year
+CM118,Z230535,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,Data for only half a year
+CM119,ALN8570,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM404,8118303,Turdus iliacus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM414,8118308,Turdus iliacus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM518,9263818,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM520,9716923,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM527,9263816,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM528,V033210,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM530,V033211,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM534,V033206,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM537,V033204,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM546,BFA1175,Muscicapa striata,Migrate Technology,15.50688.8,NA,NA,NA,NA,NA
+CM549,BFA1149,Muscicapa striata,Migrate Technology,15.50688.8,NA,NA,NA,NA,NA
+CM557,BFA1184,Muscicapa striata,Migrate Technology,15.50688.8,NA,NA,NA,NA,NA
+CM562,BFA1103,Muscicapa striata,Migrate Technology,15.50688.8,NA,NA,NA,NA,NA
+CM573,9263727,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM576,9859073,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM591,9859270,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM606,9263706,Curruca communis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM610,9263707,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM711,AFX2708 ,Anthus trivialis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM717,RJ58897,Caprimulgus europaeus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Data for only half a year
+CM736,AFX2709,Anthus trivialis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS719,9263888,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS731,V042907,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS737,9263895,Curruca communis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS749,9467816,Curruca communis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS759,9263840,Luscinia svecica,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS766,V042908,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,Wrecked pressure data
+CS803,9263859,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS804,9263884,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CS807,9263833,Motacilla flava,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT321,9467924,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT331,9467902,Acrocephalus schoenobaenus,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT337,9467913,Curruca communis,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT339,V033235,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT350,V033225,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT370,V033226,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT372,V033220,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CT379,V033216,Oenanthe oenanthe,Migrate Technology,15.49152.8,NA,NA,NA,NA,NA
+CM101,AER3048,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,No data
+CM103,Z230521,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,No data
+CM104,ALN8553,Luscinia megarhynchos,Migrate Technology,15.49152.8,NA,NA,NA,NA,No data
+CM565,AX68210,Apus apus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CM575,AX68205,Apus apus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CM599,AX81952,Apus apus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CM600,AX68206,Apus apus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CS720,AX68222,Apus apus,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CS725,AX81955,Apus apus,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CS747,9263772,Hirundo rustica,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CS750,9216410,Hirundo rustica,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CS796,9467990,Hirundo rustica,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CT312,AX81958,Apus apus,Migrate Technology,15.51200.8,NA,NA,NA,NA,Not analysed due to aerial lifestyle
+CT315,9467916,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT318,9467919,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT323,9263799,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT325,9467917,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT329,9467918,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT332,9467977,Emberiza schoeniclus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT346,9467931,Emberiza schoeniclus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT347,9467983,Emberiza schoeniclus,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
+CT360,9467922,Anthus pratensis,Migrate Technology,15.49152.8,NA,NA,NA,NA,Do not migrated
