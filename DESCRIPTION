@@ -1,14 +1,25 @@
-Package: YourProjectName
-Title: These are the Goal of my Study (One Line, Title Case)
-Version: 0.0.0.9000
+Package: MIGRATLANE_GLS_ANALYSIS
+Title: GeoLocator Data Package: MIGRATLANE - Monitoring and studying birds in the North-East Atlantic Arc
+Version: 1.0.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-xxxx-xxxx-xxxx"))
-Description: More detailed description of my research objective and data (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
-Depends: 
-    R (>= 3.5.0)
+    c(
+      person("Paul", "Doniol-Valcroze", email = "paul.doniol-valcroze@mnhn.fr", role = c("aut", "cre"), comment = "CESCO - MNHN, ORCID: 0000-0002-2523-5979"),
+      person("Frédéric", "Jiguet", email = "frederic.jiguet@mnhn.fr", role = c("aut"), comment = "CESCO - MNHN"),
+      person("Sophie", "de Grissac", email = "sophie.degrissac@mnhn.fr", role = c("aut"), comment = "CESCO - MNHN"),
+      person("Pierrick", "Bocher", email = "pierrick.bocher@univ-lr.fr", role = c("aut"), comment = "UMR LIENS"),
+      person("Yannig", "Coulomb", role = c("ctb"), comment = "CESCO - MNHN"),
+      person("Fanny", "Rey", role = c("ctb"), comment = "UMR LIENS"),
+      person("Rose", "Delacroix", role = c("ctb"), comment = "CESCO - MNHN")
+    )
+Description: The MIGRATLANE research programme is part of the development of offshore wind power along the French Channel-Atlantic coastline. Planning maritime developments for the energy transition must be accompanied by a good understanding of the animal species that frequent these areas in order to ensure their preservation. The French Biodiversity Agency (OFB) has therefore launched and is leading a research programme aimed at collecting data and characterising migratory flows, flight behaviour and altitudes, as well as maritime areas of importance for seabirds, land birds and bats. The programme consists of six complementary components: visual, radar, acoustic and aerial monitoring, and of course data analysis and modelling. Component 2, which is the subject of this data-package, focuses on telemetric monitoring of birds.
+License: CC-BY-4.0
+URL: https://raphaelnussbaumer.com/GeoPressureManual/geolocator-intro.html
+BugReports: https://github.com/Doniol-Valcroze/MIGRATLANE_GLS_ANALYSIS/issues
+Depends: R (>= 4.0.0)
+Imports: GeoLocatoR, zen4R, frictionless, GeoPressureR
+Keywords: Biologging, Collision, Offshore wind farm, Migratory birds, Multi-sensor geolocator, Acrocephalus schoenobaenus, Anthus pratensis, Anthus trivialis, Caprimulgus europaeus, Curruca communis, Luscinia megarhynchos, Luscinia svecica, Motacilla flava, Muscicapa striata, Oenanthe oenanthe, Hirundo rustica, Apus apus, Emberiza schoeniclus
+Funding: French Biodiversity Agency (OFB)
+Embargo: 2027-01-01
 Imports: 
     config,
     ecmwfr,
