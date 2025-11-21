@@ -4,7 +4,7 @@
 
 ## Description
 
-The MIGRATLANE research programme is part of the development of offshore wind power along the French Channel-Atlantic coastline. Planning maritime developments for the energy transition must be accompanied by a good understanding of the animal species that frequent these areas in order to ensure their preservation. The French Biodiversity Agency (OFB) has therefore launched and is leading a research programme aimed at collecting data and characterising migratory flows, flight behaviour and altitudes, as well as maritime areas of importance for seabirds, land birds and bats. The programme consists of six complementary components: visual, radar, acoustic and aerial monitoring, and of course data analysis and modelling. Component 2, which is the subject of this data-package, focuses on telemetric monitoring of birds.
+The MIGRATLANE research programme is part of the development of offshore wind power along the French Channel-Atlantic coastline. Planning maritime developments for the energy transition must be accompanied by a good understanding of the animal species that frequent these areas in order to ensure their preservation. The French Biodiversity Agency (OFB) has therefore launched and is leading a research programme aimed at collecting data and characterising migratory flows, flight behaviour and altitudes, as well as maritime areas of importance for seabirds, land birds and bats. The programme consists of six complementary components: visual, radar, acoustic and aerial monitoring, and data analysis and modelling. Component 2, which is the subject of this data-package, focuses on telemetric monitoring of birds.
 
 ## Data
 
